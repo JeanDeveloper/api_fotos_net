@@ -60,11 +60,15 @@ namespace ApiSolgisFotos.Controllers
 
                     if (request.datoAcceso == 1)
                     {
-                        filePath = "D:\\net\\ApiSolgisFotos\\ApiSolgisFotos\\Fotos\\Guia\\" + request.file.FileName;
+                        //filePath = "D:\\net\\ApiSolgisFotos\\ApiSolgisFotos\\Fotos\\Guia\\" + request.file.FileName;
+                        filePath = "E:\\apisolgisfotos\\Fotos\\Guia\\" + request.file.FileName;
+
+                        //E:\apisolgisfotos\Fotos\Guia
                     }
                     else
                     {
-                        filePath = "D:\\net\\ApiSolgisFotos\\ApiSolgisFotos\\Fotos\\Material\\" + request.file.FileName;
+                        //filePath = "D:\\net\\ApiSolgisFotos\\ApiSolgisFotos\\Fotos\\Material\\" + request.file.FileName;
+                        filePath = "E:\\apisolgisfotos\\Fotos\\Material\\" + request.file.FileName;
                     }
 
 

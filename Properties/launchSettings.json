@@ -4,14 +4,13 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://0.0.0.0:54578",
+      "applicationUrl": "http://localhost:54578",
       "sslPort": 44373
     }
   },
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": true,
       "launchUrl": "api/foto",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -19,9 +18,9 @@
     },
     "ApiSolgisFotos": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "launchUrl": "api/foto",
-      "applicationUrl": "https://0.0.0.0:5001;http://0.0.0.0:5000",
+      "launchBrowser": false,
+      //"applicationUrl": "https://0.0.0.0:5001;http://0.0.0.0:5000",
+      "applicationUrl": "http://0.0.0.0:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
