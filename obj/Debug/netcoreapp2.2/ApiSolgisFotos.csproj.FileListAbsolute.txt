@@ -1,0 +1,14 @@
+D:\net\ApiSolgisFotos\ApiSolgisFotos\bin\Debug\netcoreapp2.2\ApiSolgisFotos.deps.json
+D:\net\ApiSolgisFotos\ApiSolgisFotos\bin\Debug\netcoreapp2.2\ApiSolgisFotos.runtimeconfig.json
+D:\net\ApiSolgisFotos\ApiSolgisFotos\bin\Debug\netcoreapp2.2\ApiSolgisFotos.runtimeconfig.dev.json
+D:\net\ApiSolgisFotos\ApiSolgisFotos\bin\Debug\netcoreapp2.2\ApiSolgisFotos.dll
+D:\net\ApiSolgisFotos\ApiSolgisFotos\bin\Debug\netcoreapp2.2\ApiSolgisFotos.pdb
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.csprojAssemblyReference.cache
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.csproj.CoreCompileInputs.cache
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.RazorAssemblyInfo.cache
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.RazorAssemblyInfo.cs
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.AssemblyInfoInputs.cache
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.AssemblyInfo.cs
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.RazorTargetAssemblyInfo.cache
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.dll
+D:\net\ApiSolgisFotos\ApiSolgisFotos\obj\Debug\netcoreapp2.2\ApiSolgisFotos.pdb
